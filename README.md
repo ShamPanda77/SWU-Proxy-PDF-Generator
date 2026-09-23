@@ -1,10 +1,24 @@
 # SWU Proxy PDF Generator
 
-**SWU Proxy PDF Generator** est un outil non officiel destiné à faciliter la préparation et la génération de PDF proxy pour *Star Wars Unlimited*.
+SWU Proxy PDF Generator est un outil non officiel destiné à faciliter la préparation et la génération de PDF proxy pour Star Wars Unlimited.
 
 ## Version actuelle
 
-**1.1.0**
+**1.4.0**
+
+## 📥 Télécharger
+
+### Version recommandée — Installateur Windows
+
+[**⬇️ Télécharger SWU PDF Generator 1.4.0**](../../releases/latest)
+
+L'installateur permet d'installer automatiquement SWU PDF Generator et de mettre à jour une installation existante.
+
+### Version portable
+
+Une version portable est également disponible dans les fichiers de la release.
+
+---
 
 ## Fonctionnalités
 
