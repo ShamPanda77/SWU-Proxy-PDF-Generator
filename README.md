@@ -10,7 +10,7 @@ SWU Proxy PDF Generator est un outil non officiel destiné à faciliter la prép
 
 ### Version recommandée — Installateur Windows
 
-[**⬇️ Télécharger SWU PDF Generator 1.4.0**](../../releases/latest)
+[**⬇️ Télécharger SWU PDF Generator 1.4.0**](../../releases/latest/download/SWU_PDF_Generator_1.4.0_Setup.exe)
 
 L'installateur permet d'installer automatiquement SWU PDF Generator et de mettre à jour une installation existante.
 
